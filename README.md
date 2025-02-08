@@ -92,8 +92,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 - Special appreciation to all contributors who have helped improve PocketPro.
 
 ## Contact
-For any inquiries or support, please contact **[Your Name]** at **[your.email@example.com]**.
-
----
-
-*Customize this README to fit your project's unique requirements. Replace placeholders like `your-username`, `[Your Name]`, and `[your.email@example.com]` with actual information.*
+For any inquiries or support, please contact at zisan508ahmed@gmail.com.
